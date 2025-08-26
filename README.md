@@ -7,7 +7,7 @@
 [![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Timur854)
 
 <p align="center">
- <img width="900" src="assets/github-snake.svg" alt="snake"/>
+ <img width="900" src="github-snake.svg" alt="snake"/>
 </p>
 
 ## О себе
